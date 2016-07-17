@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Jerome enjoys spending most of his free time on learning lots and lots about WebDev.
+Born in '90, growing up in Luxembourg, the Heart of Europe.
 
-### More Information
+### Get in touch
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[kneipjerome@hotmail.com](mailto:kneipjerome@hotmail.com)
